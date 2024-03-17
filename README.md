@@ -1,8 +1,8 @@
 # Zulip overview
 
 [Zulip](https://zulip.com) is an open-source team collaboration tool with unique
-[topic-based threading][why-zulip] that combines the best of email and chat to
-make remote work productive and delightful. Fortune 500 companies, [leading open
+<!-- [topic-based threading][why-zulip] that combines the best of email and chat to
+make remote work productive and delightful. Fortune 500 companies, [leading open -->
 source projects][rust-case-study], and thousands of other organizations use
 Zulip every day. Zulip is the only [modern team chat app][features] that is
 designed for both live and asynchronous conversations.
